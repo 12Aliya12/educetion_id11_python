@@ -1,0 +1,1 @@
+print(" ".join([str(int(num) ** 2) for num in input().split() if int(num)%2 and int(num) ** 2 % 10 != 9]))
