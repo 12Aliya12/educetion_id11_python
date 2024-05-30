@@ -1,0 +1,1 @@
+print("\n".join([text_1 for text_1 in input().split(' ')]))
